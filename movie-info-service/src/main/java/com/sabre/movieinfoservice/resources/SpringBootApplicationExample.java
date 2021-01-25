@@ -10,7 +10,7 @@ public class SpringBootApplicationExample {
 
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Welcome to hello world............";
+		return "Welcome to GetThere..........";
 
 	}
 
