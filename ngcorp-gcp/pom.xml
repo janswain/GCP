@@ -115,7 +115,7 @@
 				<version>${appengine.maven.plugin.version}</version>
 				<configuration>
 					<deploy.projectId>getthere-ngcorp-5908</deploy.projectId>
-					<deploy.version>1</deploy.version>
+					<deploy.version>v1</deploy.version>
 				</configuration>
 			</plugin>
 			<plugin>
