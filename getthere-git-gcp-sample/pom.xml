@@ -88,7 +88,7 @@
                 <configuration>
 					<deploy.projectId>sab-dev-getthere-ngcorp-6793</deploy.projectId>
 					<deploy.version>v0</deploy.version>
-				<configuration>
+				</configuration>
             </plugin>
       
             <plugin>
